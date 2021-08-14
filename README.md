@@ -22,7 +22,6 @@
 </div>
   
  
-  ![Snake animation](https://github.com/caioeserpa/caioeserpa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 </div>
