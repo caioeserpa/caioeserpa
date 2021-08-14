@@ -3,7 +3,7 @@
 
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI
 - 📖 Me graduando em Administração (8/8) e Ciência de Dados (3/4) 
-- 😄 Pronouns: ele/dele/o
+- 😄 Pronomes: ele/dele/o
 - ⚡ Fato aleatório: Sou filho do Mace Windu e irmão do Michael Bjordan.
  <div>
   <a href="beacons.page/caionosdados">
@@ -18,6 +18,11 @@
   <img align="center" alt="Caio-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Caio-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 <svg viewBox="0 0 128 128">
+ <img align="right" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
+</div>
+  
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 </div>
