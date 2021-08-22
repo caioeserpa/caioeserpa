@@ -2,7 +2,7 @@
 
 
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI
-- 📖 Me graduando em Administração (8/8) e Ciência de Dados (3/4) 
+- 📖 Graduando em Administração de Empresas (8/8) e Ciência de Dados (3/4) 
 - 😄 Pronomes: ele/dele/o
 - ⚡ Fato aleatório: Sou filho do Mace Windu e irmão do Michael Bjordan.
  <div>
