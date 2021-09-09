@@ -1,6 +1,6 @@
 ### E aí Devs, tranquilo!? 👾🎲
 </div>
- <img align="left" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
+ <img align="center" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
 </div>
 </div>
   <a align="rigt" href="https://instagram.com/caionosdados" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
