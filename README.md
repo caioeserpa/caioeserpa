@@ -6,9 +6,9 @@
   <a href="https://instagram.com/caionosdados" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:caionosdados@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caioeserpa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
 </div>
+ 
+
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI | 💬 My name is Caio, actually i ocupate the position that Audience and BI Analyst
 - 📖 Graduando em Administração de Empresas (8/8) e Ciência de Dados (3/4)  | 💬 Graduate in Business (8/8) and Data Science (3/4) 
 - 😄 Pronomes: ele/dele/o | 💬 Pronoums: he/him
