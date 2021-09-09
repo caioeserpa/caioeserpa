@@ -1,5 +1,9 @@
 ### E aí Devs, tranquilo!? 👾🎲
 
+- 🎲 My name is Caio, attually i ocupate the position that Audience and BI Analyst
+- 📖 Graduate in Business (8/8) and Data Science (3/4) 
+- 😄 Pronoums: he/him
+- ⚡ Aleatory fact: Mace Windu's son and bother of Michael Bjordan
 
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI
 - 📖 Graduando em Administração de Empresas (8/8) e Ciência de Dados (3/4) 
