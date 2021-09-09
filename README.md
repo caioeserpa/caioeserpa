@@ -3,7 +3,8 @@
  <img align="center" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
 </div>
 
-- 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI |💬 My name is Caio, actually i ocupate the position that Audience and BI Analyst
+- 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI |![image](https://user-images.githubusercontent.com/62860173/132751444-7222faeb-5eff-43c5-9b15-ee5213184867.png)
+💬 My name is Caio, actually i ocupate the position that Audience and BI Analyst
 - 📖 Graduando em Administração de Empresas (8/8) e Ciência de Dados (3/4)  |💬 Graduate in Business (8/8) and Data Science (3/4) 
 - 😄 Pronomes: ele/dele/o |💬 Pronoums: he/him
 - ⚡ Fato aleatório: Sou filho do Mace Windu e irmão do Michael Bjordan. | 💬 Aleatory fact: Mace Windu's son and bother of Michael Bjordan
