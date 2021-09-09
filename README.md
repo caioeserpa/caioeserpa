@@ -3,11 +3,12 @@
  <img align="right" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
 </div>
 
-- 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI | My name is Caio, attually i ocupate the position that Audience and BI Analyst
+- 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI | My name is Caio, actually i ocupate the position that Audience and BI Analyst
 - 📖 Graduando em Administração de Empresas (8/8) e Ciência de Dados (3/4)  | Graduate in Business (8/8) and Data Science (3/4) 
 - 😄 Pronomes: ele/dele/o | Pronoums: he/him
 - ⚡ Fato aleatório: Sou filho do Mace Windu e irmão do Michael Bjordan. | Aleatory fact: Mace Windu's son and bother of Michael Bjordan
- <div>
+
+<div>
   <a href="beacons.page/caionosdados">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioeserpa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioeserpa&layout=compact&langs_count=7&theme=midnight-purple"/>
