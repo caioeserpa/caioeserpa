@@ -1,6 +1,6 @@
 ### E aí Devs, tranquilo!? 👾🎲
 </div>
- <img align="right" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
+ <img align="center" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
 </div>
 
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI | My name is Caio, actually i ocupate the position that Audience and BI Analyst
