@@ -1,5 +1,7 @@
 ### E aí Devs, tranquilo!? 👾🎲
-
+</div>
+ <img align="right" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
+</div>
 
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI | My name is Caio, attually i ocupate the position that Audience and BI Analyst
 - 📖 Graduando em Administração de Empresas (8/8) e Ciência de Dados (3/4)  | Graduate in Business (8/8) and Data Science (3/4) 
@@ -18,7 +20,6 @@
   <img align="center" alt="Caio-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Caio-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 <svg viewBox="0 0 128 128">
- <img align="right" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
 </div>
   
  
