@@ -10,7 +10,7 @@
 
 <div>
   <a href="beacons.page/caionosdados">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caioeserpa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" align= "center" src="https://github-readme-stats.vercel.app/api?username=caioeserpa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioeserpa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
