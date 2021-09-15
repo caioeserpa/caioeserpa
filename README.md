@@ -1,7 +1,11 @@
 # E aí Devs, tranquilo!? 👾🎲
+
+<center>
 </div>
  <img align="center" alt="Pantera Negra" src=https://media.giphy.com/media/o6FWop1Gbuyly/giphy.gif>
 </div>
+</center> 
+
 </div>
   <a align="rigt" href="https://instagram.com/caionosdados" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="rigt"  href = "mailto:caionosdados@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
