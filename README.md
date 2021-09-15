@@ -1,4 +1,4 @@
-# Me chamo Caio! Sou criador do @caionosdados! 
+# Me chamo Caio! Sou criador do @caionosdados! 🎲
 
 
 - 🎲 Me chamo Caio, atualmente ocupo a função de Analista de Audiência e BI  - 💬 My name is Caio, actually i ocupate the position that Audience and BI Analyst
