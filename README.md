@@ -15,11 +15,7 @@
 - 😄 Pronomes: ele/dele/o                                                    | 💬 Pronoums: he/him
 
 
-<div>
-  <a href="beacons.page/caionosdados">
-  <img height="170em" align= "center" src="https://github-readme-stats.vercel.app/api?username=caioeserpa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioeserpa&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+
   
 </div>
 <div style="display: inline_block"><br>
@@ -30,6 +26,14 @@
 <svg viewBox="0 0 128 128">
 </div>
   
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioeserpa&hide=html&layout=compact&theme=midnight-purple&include_all_commits=true&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=caioeserpa&theme=midnight-purple"/></td>
+    </tr>   
+</table>
+</center> 
  
   ![Snake animation](https://github.com/caioeserpa/caioeserpa/blob/output/github-contribution-grid-snake.svg)
 
