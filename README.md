@@ -9,7 +9,7 @@
 - 📫 Fale comigo em **caionosdados@caionosdados.com.br**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/caioeserpa](https://www.linkedin.com/in/caioeserpa)
 - ⚡ Curiosidade sobre mim **Ex jogador de basquete, filho do Mace Windu 🔦 e irmão do Killmonger**
-- Habilidades: curioso, obstinado, me comunico bem, gosto de trabalhar em equipe, inglês avançado, espanhol intermediário.
+- 📌Habilidades: curioso, obstinado, me comunico bem, gosto de trabalhar em equipe, inglês avançado, espanhol intermediário.
 - ⚔ Fun fact: ENFJ-A 
 
   <h3 align="left"> 📈 Portifólio:</h3> 
