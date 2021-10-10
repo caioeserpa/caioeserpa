@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou trabalhando no [Caio Nos Dados](https://www.caionosdados.com.br) e na Sistema Jornal do Commercio como Analista de Audiência e BI
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 📝 Eu regularmente escrevo sobre o universo dos dados em [https://caionosdados.medium.com](https://caionosdados.medium.com)
-- 💬 Me pergunte sobre **tecnologia, ciência de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
+- 💬 Me pergunte sobre **tecnologia, ciência de dados, carreira etc**
 - 📫 Fale comigo em **caionosdados@caionosdados.com.br**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/caioeserpa](https://www.linkedin.com/in/caioeserpa)
 - ⚡ Curiosidade sobre mim **Ex jogador de basquete, filho do Mace Windu 🔦 e irmão do Killmonger**
