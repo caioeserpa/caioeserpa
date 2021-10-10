@@ -2,6 +2,17 @@
     <img src="https://github.com/caioeserpa/caioeserpa/blob/main/CND_Layout.png" alt="Caio Nos Dados">
 </p>
 
+  📈 Portifólio: 
+- ⚙ **[IMDb - Análise sobre filmes e crítica](https://github.com/caioeserpa/IMDb)**
+
+Análise sobre os dados do site IMDb sobre críticas realizadas ao longo do tempo e filmes produzidos no intuito de explorar os dados usando SQLite, Python e Análise explanatória
+
+- ⚙ **[Airbnb - Irlanda](https://github.com/caioeserpa/Airbnb-Irlanda)**
+
+Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi possível verificar quais cidades possuiam maior fluxo de alugueis como também entender o comportamento do consumidor em meio a pandemia.
+
+🧠 Sobre mim:
+
 - 🔭 Atualmente estou trabalhando no [Caio Nos Dados](https://www.caionosdados.com.br) e na Sistema Jornal do Commercio como Analista de Audiência e BI
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 📝 Eu regularmente escrevo sobre o universo dos dados em [https://caionosdados.medium.com](https://caionosdados.medium.com)
@@ -12,14 +23,6 @@
 - 📌Habilidades: curioso, obstinado, me comunico bem, gosto de trabalhar em equipe, inglês avançado, espanhol intermediário.
 - ⚔ Fun fact: ENFJ-A 
 
-  <h3 align="left"> 📈 Portifólio:</h3> 
-- ⚙ **[IMDb - Análise sobre filmes e crítica](https://github.com/caioeserpa/IMDb)**
-
-Análise sobre os dados do site IMDb sobre críticas realizadas ao longo do tempo e filmes produzidos no intuito de explorar os dados usando SQLite, Python e Análise explanatória
-
-- ⚙ **[Airbnb - Irlanda](https://github.com/caioeserpa/Airbnb-Irlanda)**
-
-Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi possível verificar quais cidades possuiam maior fluxo de alugueis como também entender o comportamento do consumidor em meio a pandemia.
 
 
 <details>
@@ -32,6 +35,7 @@ Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi po
 </details>
 
 
+    
     
  📑 **Confira meus últimos artigos:**
 <!-- BLOG-POST-LIST:START -->
