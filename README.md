@@ -33,7 +33,7 @@ Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi po
 
 
     
- 📑 Confira meus últimos artigos:
+ 📑 **Confira meus últimos artigos:**
 <!-- BLOG-POST-LIST:START -->
 - [Como eu organizo a minha rotina?](https://caionosdados.medium.com/como-eu-organizo-a-minha-rotina-97bc6026f819)
 - [O que são Datasets? Onde encontrá-los?](https://caionosdados.medium.com/o-que-são-datasets-onde-encontrá-los-65aef6d35de4)
