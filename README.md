@@ -5,7 +5,7 @@
   📈 **Portifólio:** 
 - ⚙ **[IMDb - Análise sobre Filmes e Críticas realizadas](https://github.com/caioeserpa/IMDb)**
 
-Análise sobre os dados do site IMDb sobre críticas realizadas ao longo do tempo e filmes produzidos no intuito de explorar os dados usando SQLite, Python e Análise explanatória
+Análise sobre os dados do site IMDb sobre críticas realizadas ao longo do tempo e filmes produzidos no intuito de explorar os dados usando SQLite, Python e Análise exploratória
 
 - ⚙ **[Airbnb - Irlanda](https://github.com/caioeserpa/Airbnb-Irlanda)**
 
