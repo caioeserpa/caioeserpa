@@ -13,7 +13,7 @@ Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi po
 
 🧠 **Sobre mim:**
 
-- 🔭 Atualmente estou trabalhando no [Caio Nos Dados](https://www.caionosdados.com.br) e na Sistema Jornal do Commercio como Analista de Audiência e BI
+- 🔭 Atualmente estou trabalhando no [Caio Nos Dados](https://www.caionosdados.com.br) e na G4F, junto ao cliente CHESF como Analista de Dados
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 📝 Eu regularmente escrevo sobre o universo dos dados em [https://caionosdados.medium.com](https://caionosdados.medium.com)
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, carreira etc**
