@@ -19,7 +19,6 @@ Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi po
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, carreira etc**
 - 📫 Fale comigo em **caionosdados@caionosdados.com.br**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/caioeserpa](https://www.linkedin.com/in/caioeserpa)
-- ⚡ Curiosidade sobre mim **Ex jogador de basquete, filho do Mace Windu 🔦 e irmão do Killmonger**
 - 📌Habilidades: curioso, obstinado, me comunico bem, gosto de trabalhar em equipe, inglês avançado, espanhol intermediário.
 - ⚔ Fun fact: ENFJ-A 
 
