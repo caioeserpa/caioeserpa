@@ -2,15 +2,6 @@
     <img src="https://github.com/caioeserpa/caioeserpa/blob/main/CND_Layout.png" alt="Caio Nos Dados">
 </p>
 
-  📈 **Portifólio:** 
-- ⚙ **[IMDb - Análise sobre Filmes e Críticas realizadas](https://github.com/caioeserpa/IMDb)**
-
-Análise sobre os dados do site IMDb sobre críticas realizadas ao longo do tempo e filmes produzidos no intuito de explorar os dados usando SQLite, Python e Análise exploratória
-
-- ⚙ **[Airbnb - Irlanda](https://github.com/caioeserpa/Airbnb-Irlanda)**
-
-Análise sobre a locação de Airbnbs na Irlanda em meio a pandemia, onde foi possível verificar quais cidades possuiam maior fluxo de alugueis como também entender o comportamento do consumidor em meio a pandemia.
-
 🧠 **Sobre mim:**
 
 - 🔭 Atualmente estou trabalhando no [Caio Nos Dados](https://www.caionosdados.com.br) e na G4F, junto ao cliente CHESF como Analista de Dados
