@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="![Cover_Github](https://user-images.githubusercontent.com/62860173/223414360-6b86e2ac-947f-429a-8f6d-0170b1ef019d.png)" alt="Caio Nos Dados">
+    <img src=https://user-images.githubusercontent.com/62860173/223414736-54b93323-5370-479e-b98d-760795204051.png  alt="Caio Nos Dados">
 </p>
 
 🧠 **Sobre mim:**
