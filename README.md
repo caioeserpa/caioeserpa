@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I am **Caio Serpa**, an experienced **Data Analyst and Scientist** who seamlessly blends the roles of scientist and engineer in my daily work.  
+I am **Caio Serpa**, an experienced **Data Analyst and Scientist** who seamlessly blends the roles of scientist, analyst and engineer in my daily work.  
 Currently, I study **economic trends and bio-inspired algorithms**, combining analytical rigor with curiosity and creativity.  
 
 With a communicative and determined personality, my mission is to **help people and organizations unlock the real value of data** through intelligent insights and automation.
@@ -21,7 +21,7 @@ With a communicative and determined personality, my mission is to **help people 
 
 ### 🎓 Education & Certifications
 
-- 🎓 *Special Student*, **Master’s in Computer Science** – Universidade de Pernambuco (UPE)  
+- 🎓 **Master’s in Computer Science** – Universidade de Pernambuco (UPE)  
 - 💼 *MBA in Economics & Finance* – Gran Cursos  
 - 🧩 *Specialization in Data Analysis and Engineering* – C.E.S.A.R School  
 - 🛡️ *Post-Graduate in Privacy and Personal Data Protection*  
@@ -52,15 +52,6 @@ With a communicative and determined personality, my mission is to **help people 
 ---
 
 ### 🚀 Featured Projects
-
-📊 **[Credit Default Prediction with Bio-inspired Algorithms](https://github.com/caioeserpa/credit-default-bio-ai)**  
-Comparing traditional ML models and bio-inspired optimizations (PSO, Bat, Cuckoo, Wolf) for financial default prediction.
-
-🤖 **[Fraud Detection Ensemble Models](https://github.com/caioeserpa/fraud-ensemble-models)**  
-Hybrid ensemble methods (MLP, AdaBoost, Gradient Boosting) to detect financial fraud.
-
-📈 **[Data Dashboards and Analytics](https://github.com/caioeserpa/powerbi-dashboards)**  
-Interactive dashboards and visual analytics using Power BI and Python.
 
 ---
 
