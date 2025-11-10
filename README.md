@@ -68,7 +68,7 @@ With a communicative and determined personality, my mission is to **help people 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,git,postgresql,mysql,mongodb,powerbi,html,vscode,jupyter,docker,airflow" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,git,postgresql,mysql,mongodb,powerbi,html,vscode,jupyter,docker,apareche-airflow, AWS-Dark" />
 </p>
 
 ---
@@ -92,7 +92,6 @@ With a communicative and determined personality, my mission is to **help people 
   <a href="https://linkedin.com/in/caioeserpa"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://instagram.com/caionosdados"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
   <a href="https://caionosdados.medium.com"><img src="https://skillicons.dev/icons?i=medium" width="40" /></a>
-  <a href="https://twitter.com/_caioeserpa"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
 </p>
 
 ---
