@@ -68,7 +68,7 @@ With a communicative and determined personality, my mission is to **help people 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,git,postgresql,mysql,mongodb,powerbi,html,vscode,jupyter,docker,apareche-airflow, AWS-Dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,git,postgresql,mysql,mongodb,powerbi,html,vscode,jupyter,docker,apareche-airflow,AWS-Dark" />
 </p>
 
 ---
